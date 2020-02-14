@@ -25,6 +25,7 @@
     "react-vis": "^1.11.7"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "prettier": "^1.18.2"
   },
   "repository": {
