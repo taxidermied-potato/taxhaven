@@ -193,7 +193,7 @@ render() {
 						background: "#fff",
 						padding: 24,
 						margin: 0,
-						height: window.screen.availHeight * .885
+						height: 500
 						}}
 					>
 						<span style={{fontWeight: 800, fontSize: 14}}> Day: {this.state.days} </span>
